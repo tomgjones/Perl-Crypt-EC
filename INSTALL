@@ -1,0 +1,4 @@
+This uses the Perl-ish build and installation system, so to do a default
+build and install, do:
+
+    perl Makefile.PL && make install
