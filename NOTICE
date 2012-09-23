@@ -1,0 +1,4 @@
+The partial Elliptic Curve implementation was ported from 
+<http://www-cs-students.stanford.edu/~tjw/jsbn>, which
+is Copyright Tom Wu and available under a BSD license.  
+This in turn was "Ported loosely from BouncyCastle's Java EC code".
