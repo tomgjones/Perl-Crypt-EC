@@ -1,0 +1,14 @@
+Source: libcrypt-ec-perl
+Section: perl
+Priority: optional
+Build-Depends: debhelper (>= 7)
+Build-Depends-Indep: perl
+Maintainer: Tom Jones <tom@oxix.org>
+Standards-Version: 3.9.1
+Homepage: http://search.cpan.org/dist/Crypt-EC/
+
+Package: libcrypt-ec-perl
+Architecture: all
+Depends: ${misc:Depends}, ${perl:Depends}
+Description: elliptic curve manipulation library
+ elliptic curve manipulation library
