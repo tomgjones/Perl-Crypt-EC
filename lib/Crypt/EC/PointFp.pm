@@ -70,7 +70,7 @@ operation on this point.
 Returns an array of 8 bit integers encoding this point.  If $compressed
 is given (and true), then only the x coordinate is included in the
 encoding (the y coordinate can be inferred, so the information is
-redundant).
+redundant).  FIXME: this needs more details on what the encoding is.
 
 =head2 curve
 
